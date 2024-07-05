@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Menu, X } from "lucide-react";
+=======
+ import { Menu, X } from "lucide-react";
+>>>>>>> 350f31bc138fe874551a33c42cd88c4a987b3b9c
 import { useState } from "react";
 import logo from "../assets/logo1.png";
 import { navItems } from "../constants";
