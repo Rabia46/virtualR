@@ -40,7 +40,6 @@ const FeatureSection = () => {
 export default FeatureSection;
 
 
-// import { features } from "../constants";
 
 // const FeatureSection = () => {
 //   return (
