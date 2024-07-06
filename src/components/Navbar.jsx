@@ -1,6 +1,5 @@
 
 import { Menu, X } from "lucide-react";
- import { Menu, X } from "lucide-react";
 
 import { useState } from "react";
 import logo from "../assets/logo1.png";
